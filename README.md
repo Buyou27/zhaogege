@@ -1,6 +1,30 @@
 # zhaogege · 成员作业与学习交流
 
 这里用于发布学习任务、提交成员作业、记录每周分享，以及交流学习中遇到的问题。
+请大家在这个 `README.md` 中写入自己的 GitHub 主页地址，例如：
+- https://github.com/lusgli-0
+
+然后提交一个 Pull Request（PR）请求合并。
+
+LZH：https://github.com/Buyou27
+
+FY：https://github.com/afdfbgrdssa
+
+https://github.com/001026-ai
+
+WZM：https://github.com/wzm-Epoch
+
+SY：https://github.com/Touchmiii
+
+TZJ:https://github.com/lu-xiao-t23
+
+HJQ:https://github.com/gsgwqy
+
+DBY: https://github.com/dengboyu412-lang
+
+QZH：https://github.com/3783764392-coder
+
+bjn-white7：https://github.com/bjn-white7
 
 ## 从这里开始
 
